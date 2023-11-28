@@ -1,4 +1,4 @@
-# ethereum-rp-checker
+# ethereum-RPC-checker
 Check your ethereum rpc list 
 
 ip:port
